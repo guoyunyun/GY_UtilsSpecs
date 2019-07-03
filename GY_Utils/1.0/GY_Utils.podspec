@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GY_Utils'
   s.version          = '1.0'
-  s.summary          = 'A short description of GY_Utils.'
+  s.summary          = 'My GY_Utils.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/guoyunyun/GY_Utils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'L05T' => '18515153602@163.com' }
+  s.author           = { 'guoyunyun' => '18515153602@163.com' }
   s.source           = { :git => 'https://github.com/guoyunyun/GY_Utils.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
